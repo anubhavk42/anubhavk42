@@ -6,15 +6,20 @@ B.Pharm, so I understand the clinical and regulatory side that most product peop
 
 Looking for **APM, product analyst, and founder's office roles** — remote-first, in health-tech, D2C, and AI-first products.
 
+**Pranshakti Nutrition** — Full case study coming soon.
+
+What I keep coming back to: **Indian families managing health without any system to do it with.**
+
+Pharmacy, then nutrition, then eldercare coordination. Same problem, different angles.
+
 **What I'm building:**
 
-- 👨‍👩‍👧 [Khyaal](https://github.com/anubhavk42/khyaal) — family eldercare coordination, medication reminders and cross-device sync
-- 🩺 [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) — AI-powered nutrition tracking, scan a meal and get an instant breakdown via Gemini 2.5 Flash
-- 🧭 [Disha](https://github.com/anubhavk42/Disha) — AI-powered career matching, auto-apply, and CV building for the Indian job market
-- 📚 [Lakshya](https://github.com/anubhavk42/Lakshya) — offline exam-prep companion for competitive-exam aspirants
-- 📰 [SAAR](https://github.com/anubhavk42/SAAR-NEWS-) — a bounded 5-minute daily current-affairs digest for exam aspirants
-- 🌤️ [Aakash](https://github.com/anubhavk42/Aakash) — animated weather app with a live atmosphere engine and AQI-first design
-
+- 🩺 [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) — Most nutrition apps score food the same way for everyone. Built because the same meal should score differently depending on what you're optimizing for, and priced at a quarter of comparable apps so daily tracking doesn't need a subscription.
+- 👨‍👩‍👧 [Khyaal](https://github.com/anubhavk42/khyaal) — Families coordinating an aging parent's care, together. Built because the existing options in India all sell you a paid care manager at Rs 15-30k a month, and nobody was building the simple version.
+- 🧭 [Disha](https://github.com/anubhavk42/Disha) — Built while I was the candidate this app is for. Job hunting for APM roles surfaced how much of the search is repetitive form-filling rather than actual matching.
+- 📚 [Lakshya](https://github.com/anubhavk42/Lakshya) — Built because every exam-prep app assumes you have data and battery to spare. Zero internet, zero background services, zero data collection.
+- 📰 [SAAR](https://github.com/anubhavk42/SAAR-NEWS-) — Built for exam aspirants who need to know what happened today without losing an hour of prep time to it. Five minutes, bounded, then you close the app.
+- 🌤️ [Aakash](https://github.com/anubhavk42/Aakash) — Every weather app gives you the same numbers. Built to make AQI and conditions felt, not just read, through live atmosphere and haptics.
 
 
 **Find me:**
