@@ -2,7 +2,7 @@
 
 A healthcare person who learned to build products, and then built them.
 
-B.Pharm, so I understand the clinical and regulatory side that most product people don't. Co-founded a nutrition venture in 2023 and spent two years learning product the expensive way — getting pricing wrong and watching people churn — alongside a PGDM at SPJIMR. Taught myself to ship Android along the way, so now I write the spec, build the thing, and find out where the spec was wrong.
+B.Pharm, so I understand the clinical and regulatory side that most product people don't. Co-founded a nutrition venture in 2023 and spent two years learning product the expensive way — getting pricing wrong and watching people churn — alongside PGDM at SPJIMR. Taught myself to ship Android along the way, so now I write the spec, build the thing, and find out where the spec was wrong.
 
 Looking for **APM, product analyst, and founder's office roles** — remote-first, in health-tech, D2C, and AI-first products.
 
