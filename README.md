@@ -14,9 +14,9 @@ Pharmacy, then nutrition, then eldercare coordination. Same problem, different a
 
 **Product analysis:**
 
-- 🍔 [Zomato — Healthy Mode Teardown](https://github.com/anubhavk42/anubhavk42/raw/main/zomato-healthy-mode-teardown.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
-- 🛵 [Swiggy — EatRight Teardown](https://github.com/anubhavk42/anubhavk42/blob/main/zomato-healthy-mode-teardown.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
-
+- 🍔 [Zomato — Healthy Mode Teardown](https://github.com/anubhavk42/anubhavk42/blob/main/Zomato%20Teardown%20Anubhav%20Kapoor.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
+- 🛵 [Swiggy — EatRight Teardown](https://github.com/anubhavk42/anubhavk42/blob/main/Swiggy%20Teardown%20Anubhav%20Kapoor.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
+  
 **What I'm building:**
 
 - 🩺 [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) — Most nutrition apps score food the same way for everyone. Built because the same meal should score differently depending on what you're optimizing for, and priced at a quarter of comparable apps so daily tracking doesn't need a subscription.
