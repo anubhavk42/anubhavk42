@@ -14,8 +14,8 @@ Pharmacy, then nutrition, then eldercare coordination. Same problem, different a
 
 **Product analysis:**
 
-- 🍔 [Zomato — Healthy Mode Teardown](https://github.com/anubhavk42/anubhavk42/raw/main/zomato-healthy-mode-teardown.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
-- 🛵 [Swiggy — EatRight Teardown](https://github.com/anubhavk42/anubhavk42/raw/main/swiggy-eatright-teardown.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
+- 🍔 [Zomato — Healthy Mode Teardown](https://github.com/user-attachments/files/32659605/Zomato.Teardown.Anubhav.Kapoor.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
+- 🛵 [Swiggy — EatRight Teardown](https://github.com/user-attachments/files/32659598/Swiggy.Teardown.Anubhav.Kapoor.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
 
 **What I'm building:**
 
