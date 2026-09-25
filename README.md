@@ -12,6 +12,11 @@ What I keep coming back to: **Indian families managing health without any system
 
 Pharmacy, then nutrition, then eldercare coordination. Same problem, different angles.
 
+**Product analysis:**
+
+- 🍔 [Zomato — Healthy Mode Teardown](https://github.com/anubhavk42/anubhavk42/raw/main/zomato-healthy-mode-teardown.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
+- 🛵 [Swiggy — EatRight Teardown](https://github.com/anubhavk42/anubhavk42/raw/main/swiggy-eatright-teardown.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
+
 **What I'm building:**
 
 - 🩺 [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) — Most nutrition apps score food the same way for everyone. Built because the same meal should score differently depending on what you're optimizing for, and priced at a quarter of comparable apps so daily tracking doesn't need a subscription.
@@ -20,7 +25,6 @@ Pharmacy, then nutrition, then eldercare coordination. Same problem, different a
 - 📚 [Lakshya](https://github.com/anubhavk42/Lakshya) — Built because every exam-prep app assumes you have data and battery to spare. Zero internet, zero background services, zero data collection.
 - 📰 [SAAR](https://github.com/anubhavk42/SAAR-NEWS-) — Built for exam aspirants who need to know what happened today without losing an hour of prep time to it. Five minutes, bounded, then you close the app.
 - 🌤️ [Aakash](https://github.com/anubhavk42/Aakash) — Every weather app gives you the same numbers. Built to make AQI and conditions felt, not just read, through live atmosphere and haptics.
-
 
 **Find me:**
 [LinkedIn](https://linkedin.com/in/anubhav-kapoor-438b23197) · anubhavk42@gmail.com
