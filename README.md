@@ -27,4 +27,4 @@ Pharmacy, then nutrition, then eldercare coordination. Same problem, different a
 - 🌤️ [Aakash](https://github.com/anubhavk42/Aakash) — Every weather app gives you the same numbers. Built to make AQI and conditions felt, not just read, through live atmosphere and haptics.
 
 **Find me:**
-[LinkedIn](https://linkedin.com/in/anubhav-kapoor-438b23197) · anubhavk42@gmail.com
+[LinkedIn](https://linkedin.com/in/anubhavkapoor1) · anubhavk42@gmail.com
