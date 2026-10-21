@@ -6,7 +6,7 @@ B.Pharm, so I understand the clinical and regulatory side that most product peop
 
 Looking for **APM, product analyst, and founder's office roles** — remote-first, in health-tech, D2C, and AI-first products.
 
-**Pranshakti Nutrition** — Full case study coming soon.
+**Pranshakti Nutrition** — [Founder case study](https://github.com/anubhavk42/anubhavk42/blob/main/Pranshakti%20Case%20Study%20Anubhav%20Kapoor.pdf): pricing, acquisition, retention, the app, and what I got wrong.
 
 What I keep coming back to: **Indian families managing health without any system to do it with.**
 
@@ -19,7 +19,7 @@ Pharmacy, then nutrition, then eldercare coordination. Same problem, different a
   
 **What I'm building:**
 
-- 🩺 [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) — Most nutrition apps score food the same way for everyone. Built because the same meal should score differently depending on what you're optimizing for, and priced at a quarter of comparable apps so daily tracking doesn't need a subscription.
+- 🩺 [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) — Most nutrition apps score food the same way for everyone. Built because the same meal should score differently depending on what you're optimizing for, and priced at about half of comparable apps so daily tracking doesn't need a subscription.
 - 👨‍👩‍👧 [Khyaal](https://github.com/anubhavk42/khyaal) — Families coordinating an aging parent's care, together. Built because the existing options in India all sell you a paid care manager at Rs 15-30k a month, and nobody was building the simple version.
 - 🧭 [Disha](https://github.com/anubhavk42/Disha) — Built while I was the candidate this app is for. Job hunting for APM roles surfaced how much of the search is repetitive form-filling rather than actual matching.
 - 📚 [Lakshya](https://github.com/anubhavk42/Lakshya) — Built because every exam-prep app assumes you have data and battery to spare. Zero internet, zero background services, zero data collection.
