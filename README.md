@@ -6,7 +6,7 @@ B.Pharm, so I understand the clinical and regulatory side that most product peop
 
 Looking for **APM, product analyst, and founder's office roles** — remote-first, in health-tech, D2C, and AI-first products.
 
-**Pranshakti Nutrition** — [Founder case study](https://github.com/anubhavk42/anubhavk42/blob/main/Pranshakti%20Case%20Study%20Anubhav%20Kapoor.pdf): pricing, acquisition, retention, the app, and what I got wrong.
+**Pranshakti Nutrition** — [Founder case study](https://anubhavk42.github.io/anubhavk42/Pranshakti-Case-Study-Anubhav-Kapoor.pdf): pricing, acquisition, retention, the app, and what I got wrong.
 
 What I keep coming back to: **Indian families managing health without any system to do it with.**
 
@@ -14,8 +14,8 @@ Pharmacy, then nutrition, then eldercare coordination. Same problem, different a
 
 **Product analysis:**
 
-- 🍔 [Zomato — Healthy Mode Teardown](https://github.com/anubhavk42/anubhavk42/blob/main/Zomato%20Teardown%20Anubhav%20Kapoor.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
-- 🛵 [Swiggy — EatRight Teardown](https://github.com/anubhavk42/anubhavk42/blob/main/Swiggy%20Teardown%20Anubhav%20Kapoor.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
+- 🍔 [Zomato — Healthy Mode Teardown](https://anubhavk42.github.io/anubhavk42/Zomato-Teardown-Anubhav-Kapoor.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
+- 🛵 [Swiggy — EatRight Teardown](https://anubhavk42.github.io/anubhavk42/Swiggy-Teardown-Anubhav-Kapoor.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
   
 **What I'm building:**
 
