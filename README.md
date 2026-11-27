@@ -2,21 +2,14 @@
 
 A healthcare person who learned to build products, and then built them.
 
-B.Pharm, so I understand the clinical and regulatory side that most product people don't. Co-founded a nutrition venture in 2023 and spent two years learning product the expensive way — getting pricing wrong and watching people churn — alongside PGDM at SPJIMR. Taught myself to ship Android along the way, so now I write the spec, build the thing, and find out where the spec was wrong.
+B.Pharm, so I understand the clinical and regulatory side that most product people don't. Did my PGDM at SPJIMR and taught myself to ship Android along the way, so now I write the spec, build the thing, and find out where the spec was wrong.
 
 Looking for **APM, product analyst, and founder's office roles** — remote-first, in health-tech, D2C, and AI-first products.
-
-**Pranshakti Nutrition** — [Founder case study](https://anubhavk42.github.io/anubhavk42/Pranshakti-Case-Study-Anubhav-Kapoor.pdf): pricing, acquisition, retention, the app, and what I got wrong.
 
 What I keep coming back to: **Indian families managing health without any system to do it with.**
 
 Pharmacy, then nutrition, then eldercare coordination. Same problem, different angles.
 
-**Product analysis:**
-
-- 🍔 [Zomato — Healthy Mode Teardown](https://anubhavk42.github.io/anubhavk42/Zomato-Teardown-Anubhav-Kapoor.pdf) — Health features usually get a pass just for existing. Tested whether this one actually holds up: switched my delivery location to Mathura and watched it vanish from the app entirely, then called a restaurant to check if their protein numbers were real. They weren't.
-- 🛵 [Swiggy — EatRight Teardown](https://anubhavk42.github.io/anubhavk42/Swiggy-Teardown-Anubhav-Kapoor.pdf) — Most teardowns state a finding and move on. Published mine, then found my sharpest claim was wrong, and put the correction inside the document instead of quietly fixing it.
-  
 **What I'm building:**
 
 - 🩺 [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) — Most nutrition apps score food the same way for everyone. Built because the same meal should score differently depending on what you're optimizing for, and priced at about half of comparable apps so daily tracking doesn't need a subscription.
